@@ -1,0 +1,10 @@
+opencv-python
+pydicom
+SimpleITK
+torch
+torchvision
+gradio
+fastapi
+scikit-image
+matplotlib
+monai
